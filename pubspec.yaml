@@ -1,0 +1,5 @@
+name: tekartik_jqm_asset
+author: alex@tekartik.com
+description: jquerymobile for dart
+dependencies:
+  browser: any
