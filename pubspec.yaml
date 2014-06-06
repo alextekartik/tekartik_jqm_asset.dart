@@ -1,4 +1,5 @@
 name: tekartik_jqm_asset
+version: 0.0.1
 author: alex@tekartik.com
 description: jquerymobile for dart
 dependencies:
