@@ -16,3 +16,4 @@ pubspec.lock
 
 # tmp files & folders
 *.tmp
+.packages
